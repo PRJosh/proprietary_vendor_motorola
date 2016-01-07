@@ -44,6 +44,13 @@ PRODUCT_COPY_FILES += vendor/motorola/surnia/proprietary/bin/adsprpcd:system/bin
     vendor/motorola/surnia/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/motorola/surnia/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
     vendor/motorola/surnia/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/Bluetooth_cal.acdb:system/etc/acdbdata/Bluetooth_cal.acdb \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/General_cal.acdb:system/etc/acdbdata/General_cal.acdb \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/Global_cal.acdb:system/etc/acdbdata/Global_cal.acdb \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/Handset_cal.acdb:system/etc/acdbdata/Handset_cal.acdb \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/Hdmi_cal.acdb:system/etc/acdbdata/Hdmi_cal.acdb \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/Headset_cal.acdb:system/etc/acdbdata/Headset_cal.acdb \
+    vendor/motorola/surnia/proprietary/etc/acdbdata/Speaker_cal.acdb:system/etc/acdbdata/Speaker_cal.acdb \
     vendor/motorola/surnia/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
     vendor/motorola/surnia/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/motorola/surnia/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
